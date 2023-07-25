@@ -1,0 +1,19 @@
+{
+    "testimonials":[ 
+        {
+            "name": "Alvaro cortez",
+            "post": "CEO",
+        "txt": "The custom chatbot on our site has greatly improved our customer support experience. It provides quick and accurate responses, saving us time and ensuring customer satisfaction."
+        },
+        {
+            "name": "James Smith",
+            "post": "Business Owner",
+        "txt": "Implementing a chatbot on our custom site was a game-changer. It has helped us handle customer inquiries more efficiently and has significantly reduced our support team's workload."
+        },
+        {
+            "name": "Alina Mathews",
+            "post": "Head of Customer Relations",
+        "txt": "The chatbot on our custom site is incredibly intuitive and user-friendly. It understands our customers' needs and provides relevant solutions promptly. Our customers love the convenience it offers."
+        }
+    ]
+}
